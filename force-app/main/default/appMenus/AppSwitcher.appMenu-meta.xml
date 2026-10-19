@@ -96,4 +96,8 @@
         <name>sfdxhardismon_d700000009o68eae</name>
         <type>ExternalClientApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>sfdxhardismain</name>
+        <type>ExternalClientApplication</type>
+    </appMenuItems>
 </AppMenu>
