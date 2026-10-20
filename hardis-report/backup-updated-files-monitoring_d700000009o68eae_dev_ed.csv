@@ -1,22 +1,3 @@
 File,ChangeType,FileHuman,WorkingDir,PrevName,severity,severityIcon
-appMenus/AppSwitcher.appMenu-meta.xml," ",AppMenu AppSwitcher,M,,log,📰
 cleanDataServices/DataCloudGeoLocation.cleanDataService-meta.xml," ",CleanDataService DataCloudGeoLocation,M,,log,📰
-externalClientApps/sfdxhardismain.eca-meta.xml,A,ExternalClientApplication sfdxhardismain,,,log,📰
-extlClntAppGlobalOauthSets/sfdxhardismainGlblOAuth.ecaGlblOauth-meta.xml,A,ExtlClntAppGlobalOauthSettings sfdxhardismainGlblOAuth,,,log,📰
-extlClntAppOauthPolicies/sfdxhardismainOAuthSettings_defaultPolicy.ecaOauthPlcy-meta.xml,A,ExtlClntAppOauthConfigurablePolicies sfdxhardismainOAuthSettings_defaultPolicy,,,log,📰
-extlClntAppOauthSettings/sfdxhardismainOAuthSettings.ecaOauth-meta.xml,A,ExtlClntAppOauthSettings sfdxhardismainOAuthSettings,,,log,📰
-extlClntAppPolicies/sfdxhardismain_defaultPolicy.ecaPlcy-meta.xml,A,ExtlClntAppConfigurablePolicies sfdxhardismain_defaultPolicy,,,log,📰
-flowDefinitions/Installation_Assign_Crew.flowDefinition-meta.xml," ",FlowDefinition Installation_Assign_Crew,M,,log,📰
-layouts/Installation__c-Installation Layout.layout-meta.xml," ",Layout Installation__c-Installation Layout,M,,log,📰
-layouts/Panel_Batch__c-Panel Batch Layout.layout-meta.xml," ",Layout Panel_Batch__c-Panel Batch Layout,M,,log,📰
-objects/Installation__c/fields/Gate_Code__c.field-meta.xml,A,CustomFieldTranslation Gate_Code__c.field-meta.xml,,,log,📰
-objects/Installation__c/fields/Install_Date__c.field-meta.xml," ",CustomFieldTranslation Install_Date__c.field-meta.xml,M,,log,📰
-objects/Installation__c/fields/Scaffolding_Required__c.field-meta.xml,A,CustomFieldTranslation Scaffolding_Required__c.field-meta.xml,,,log,📰
-objects/Installation__c/fields/Status__c.field-meta.xml," ",CustomFieldTranslation Status__c.field-meta.xml,M,,log,📰
-objects/Panel_Batch__c/fields/Supplier__c.field-meta.xml,A,CustomFieldTranslation Supplier__c.field-meta.xml,,,log,📰
-objects/Panel_Batch__c/fields/Warranty_Years__c.field-meta.xml,A,CustomFieldTranslation Warranty_Years__c.field-meta.xml,,,log,📰
-permissionsets/Helios_Delivery_Crew.permissionset-meta.xml," ",PermissionSet Helios_Delivery_Crew,M,,log,📰
-permissionsets/Helios_Delivery_Manager.permissionset-meta.xml," ",PermissionSet Helios_Delivery_Manager,M,,log,📰
 scontrols/Feed.scf," ",Scontrol Feed,M,,log,📰
-manifest/package-all-org-items.xml," ",manifest/package-all-org-items.xml,M,,log,📰
-manifest/package-backup-items.xml," ",manifest/package-backup-items.xml,M,,log,📰
