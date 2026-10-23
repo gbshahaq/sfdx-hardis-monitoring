@@ -9,7 +9,7 @@ Contains the list of metadatas that are in the git backup
 
 <div id="jstree-container"></div>
 
-Metadatas: 677
+Metadatas: 679
 
 <details><summary>ApexClass (6)</summary>
 
@@ -634,7 +634,7 @@ Metadatas: 677
 
 </details>
 
-<details><summary>Settings (172)</summary>
+<details><summary>Settings (174)</summary>
 
 
   • Account<br/>
@@ -671,6 +671,7 @@ Metadatas: 677
   • Currency<br/>
   • CustomAddressField<br/>
   • CustomerDataPlatform<br/>
+  • CustomerIntelligence<br/>
   • CustomizablePropensityScoring<br/>
   • CustomPreferencePage<br/>
   • DataMask<br/>
@@ -781,6 +782,7 @@ Metadatas: 677
   • Schema<br/>
   • Search<br/>
   • Security<br/>
+  • SelfService<br/>
   • ServiceAIRecommendations<br/>
   • ServiceCatalog<br/>
   • ServiceCloudVoice<br/>

@@ -9,7 +9,7 @@ Package.xml generated from content of SFDX package force-app (folder force-app)
 
 <div id="jstree-container"></div>
 
-Metadatas: 834
+Metadatas: 836
 
 <details><summary>ApexClass (6)</summary>
 
@@ -786,7 +786,7 @@ Metadatas: 834
 
 </details>
 
-<details><summary>Settings (171)</summary>
+<details><summary>Settings (173)</summary>
 
 
   • Account<br/>
@@ -823,6 +823,7 @@ Metadatas: 834
   • Currency<br/>
   • CustomAddressField<br/>
   • CustomerDataPlatform<br/>
+  • CustomerIntelligence<br/>
   • CustomizablePropensityScoring<br/>
   • CustomPreferencePage<br/>
   • DataMask<br/>
@@ -932,6 +933,7 @@ Metadatas: 834
   • Schema<br/>
   • Search<br/>
   • Security<br/>
+  • SelfService<br/>
   • ServiceAIRecommendations<br/>
   • ServiceCatalog<br/>
   • ServiceCloudVoice<br/>

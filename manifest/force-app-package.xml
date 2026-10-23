@@ -670,6 +670,7 @@
         <members>CustomAddressField</members>
         <members>CustomPreferencePage</members>
         <members>CustomerDataPlatform</members>
+        <members>CustomerIntelligence</members>
         <members>CustomizablePropensityScoring</members>
         <members>DataMask</members>
         <members>Deployment</members>
@@ -778,6 +779,7 @@
         <members>Schema</members>
         <members>Search</members>
         <members>Security</members>
+        <members>SelfService</members>
         <members>ServiceAIRecommendations</members>
         <members>ServiceCatalog</members>
         <members>ServiceCloudVoice</members>

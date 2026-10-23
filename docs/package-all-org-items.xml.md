@@ -9,7 +9,7 @@ Contains the entire list of metadatas that are present in the monitored org (not
 
 <div id="jstree-container"></div>
 
-Metadatas: 1106
+Metadatas: 1108
 
 <details><summary>ApexClass (6)</summary>
 
@@ -1074,7 +1074,7 @@ Metadatas: 1106
 
 </details>
 
-<details><summary>Settings (172)</summary>
+<details><summary>Settings (174)</summary>
 
 
   • Account<br/>
@@ -1111,6 +1111,7 @@ Metadatas: 1106
   • Currency<br/>
   • CustomAddressField<br/>
   • CustomerDataPlatform<br/>
+  • CustomerIntelligence<br/>
   • CustomizablePropensityScoring<br/>
   • CustomPreferencePage<br/>
   • DataMask<br/>
@@ -1221,6 +1222,7 @@ Metadatas: 1106
   • Schema<br/>
   • Search<br/>
   • Security<br/>
+  • SelfService<br/>
   • ServiceAIRecommendations<br/>
   • ServiceCatalog<br/>
   • ServiceCloudVoice<br/>
