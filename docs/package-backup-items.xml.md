@@ -9,7 +9,7 @@ Contains the list of metadatas that are in the git backup
 
 <div id="jstree-container"></div>
 
-Metadatas: 679
+Metadatas: 680
 
 <details><summary>ApexClass (6)</summary>
 
@@ -186,6 +186,13 @@ Metadatas: 679
   • <a href="https://d700000009o68eae-dev-ed.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">prm_winter24_dashboardsSPLIT1758271111100/</a><br/>
   • <a href="https://d700000009o68eae-dev-ed.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">prm_winter24_dashboardsSPLIT1758271111100/cmc_spring_24_cmc_home_dashboard</a><br/>
   • <a href="https://d700000009o68eae-dev-ed.my.salesforce.com/lightning/setup/Dashboards/home" target="_blank">prm_winter24_dashboardsSPLIT1758271111100/prm_winter24_ch_sales_dashboardSPLIT1758271111100</a><br/>
+
+</details>
+
+<details><summary>DebugLevel (1)</summary>
+
+
+  • SFDC_DevConsole<br/>
 
 </details>
 

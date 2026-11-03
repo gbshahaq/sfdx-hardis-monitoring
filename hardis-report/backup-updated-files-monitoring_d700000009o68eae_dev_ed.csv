@@ -1,5 +1,6 @@
 File,ChangeType,FileHuman,WorkingDir,PrevName,severity,severityIcon
 cleanDataServices/DataCloudGeoLocation.cleanDataService-meta.xml," ",CleanDataService DataCloudGeoLocation,M,,log,📰
-notificationTypeConfig/NotificationTypeConfig.config-meta.xml," ",NotificationTypeConfig NotificationTypeConfig,M,,log,📰
+debugLevels/SFDC_DevConsole.debugLevel-meta.xml,A,DebugLevel SFDC_DevConsole,,,log,📰
 scontrols/Feed.scf," ",Scontrol Feed,M,,log,📰
-settings/ExternalClientApp.settings-meta.xml," ",Settings ExternalClientApp,M,,log,📰
+manifest/package-all-org-items.xml," ",manifest/package-all-org-items.xml,M,,log,📰
+manifest/package-backup-items.xml," ",manifest/package-backup-items.xml,M,,log,📰
