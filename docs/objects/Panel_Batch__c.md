@@ -7,10 +7,10 @@
 
 ```mermaid
 graph TD
-Installation__c["Installation"]:::customObject
-click Installation__c "../Installation__c/"
 Panel_Batch__c["Panel Batch"]:::mainObject
 click Panel_Batch__c "../Panel_Batch__c/"
+Installation__c["Installation"]:::customObject
+click Installation__c "../Installation__c/"
 
 Panel_Batch__c -->|Installation__c| Installation__c
 
